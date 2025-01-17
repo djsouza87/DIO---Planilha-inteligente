@@ -6,7 +6,9 @@ Planilha financeira inteligente criada a partir de dados fictícios fornecidos d
 
 ## 🤖 Tecnologias Utilizadas
 [ChatGPT](https://chat.openai.com/)
+
 [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office/)
+
 [LeonardoAI](https://app.leonardo.ai/)
 
 ## 🧐 Processo de Criação
