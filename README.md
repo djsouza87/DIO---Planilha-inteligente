@@ -15,4 +15,4 @@ Planilha financeira inteligente criada a partir de dados fictícios fornecidos d
 Foi utilizado o Microsoft Excel para criação de tabelas dinâmicas, tabulação de dados e formatação de dashboard de apresentação da planilha, ChatGPT para criar o prompt para imagem utilizada no dashboard e Leonardo AI para gerar a imagem efetivamente.
 
 ## 🚀 Resultados
-Dashboard interativo para apresentação de dados fictícios de movimentações financeiras relativas à entradas e saídas de valores, representados através de gráficos com barras e opção de filtro por meses..
+Dashboard interativo para apresentação de dados fictícios de movimentações financeiras relativas à entradas e saídas de valores, representados através de gráficos com barras e opção de filtro por meses.
